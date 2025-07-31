@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FrauddetectionApplication<frauddetection>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.frauddetection.frauddetection.FrauddetectionApplication",
+            "projectName": "frauddetection",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
